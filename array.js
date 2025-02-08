@@ -8,3 +8,9 @@ let heroes=["ironman","thor","wonderwoman","puchaRam","batman","Superman","capta
 for(let i=0;i<heroes.length;i++){
     console.log(heroes[i]);
 }
+
+let mahabharat=["puchram","shaktiman","arjun","bheem","karna","krishna","bhisma","dronacharya"];
+let ramayana=["rama","lakshman","bali","sugreev","hanuman","indrajeet","angad"];
+
+let history=mahabharat.concat(ramayana);
+console.log(history);
