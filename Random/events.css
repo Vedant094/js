@@ -1,0 +1,15 @@
+button{
+    color:darkseagreen;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    align-content: center;
+}
+div{
+    color:pink;
+    background-color: pink;
+    height:150px;
+    width: 150px;
+    
+}
