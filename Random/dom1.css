@@ -1,0 +1,41 @@
+h1{
+    color:pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px;
+    background-color: azure;
+}
+h4{
+    color: red;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px;
+}
+h5{
+    color:blue;
+    background-color: lightblue;
+    border:5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.E{
+    border:5px;
+    border-color: black ;
+}
+button{
+    color:darkkhaki
+}
+body{
+    background-color: darkseagreen;
+}
+.box{
+    color:darkgreen;
+    background-color: yellow;
+    border: 4px solid black;
+    height: 100px;
+    width: 140px;
+    border-color:1px black;
+ }
+.para{
+    color:darkred;
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
