@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: darkgreen;
+    background-color: pink;
     text-align: center;
 }
 
@@ -31,20 +31,20 @@ body{
     border:none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: 8vmin;
-    background-color: palegreen;
+    background-color: rebeccapurple;
 }
 #reset{
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     padding: 1rem;
     border-radius: 1rem;
-    background-color: greenyellow;
+    background-color:palevioletred;
 }
 
 #new{
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     padding: 1rem;
     border-radius: 1rem;
-    background-color: greenyellow;
+    background-color: palevioletred;
 }
 
 .msg{
